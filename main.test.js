@@ -1,4 +1,4 @@
-const {rentalCarCost} = require('./index')
+const {rentalCarCost} = require('./main')
 
 describe("Regular Tests:", function() {
   it("Should work for under 3 days:", function() {
