@@ -1,5 +1,7 @@
 # Clean Code Handout
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/engineerkit/clean-code-handout)
+
 This project is for the Clean Code workshop! You'll get to experience cleaning up some dirty code, and then we can discuss your solutions and how this might apply to future projects you take on.
 
 ## Getting Started
